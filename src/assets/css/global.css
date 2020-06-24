@@ -1,0 +1,27 @@
+html,body,#app{
+	margin:0;
+	padding:0;
+	height:100%;
+}
+.el-container{
+	height:100%;
+}
+.el-card{
+	margin-top:20px;
+
+}
+.el-card__body .el-input-group{
+	width:300px;
+	margin-right:20px;
+}
+.el-table{
+	margin-top:10px;
+}
+
+.el-cascader-panel{
+	height:300px;
+}
+
+	.ql-editor{
+		 min-height: 300px;
+	}
